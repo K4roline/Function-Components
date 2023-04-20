@@ -1,1 +1,1 @@
-Projeto de um formulário para estudo de Function Components.
+Projeto de um formulário para estudo de Function Components, Hooks, Contextos e boas práticas.
